@@ -1,0 +1,18 @@
+disease_symptom 0 疾病症状
+symptom_disease 1 
+disease_cause 2 发病原因
+disease_acompany 3 并发症
+disease_not_food 4 不能吃什么食物
+disease_do_food 5 能吃什么食物
+food_not_disease 6 
+food_do_disease 7
+disease_drug 8 药物
+drug_disease 9 
+disease_check 10 疾病所需检查
+check_disease 11 
+disease_prevent 12 防治措施
+disease_lasttime 13 治疗周期
+disease_cureway 14 治疗方式
+disease_cureprob 15 治愈概率
+disease_easyget 16 易感人群
+disease_desc 17 疾病简介
